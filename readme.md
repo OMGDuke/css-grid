@@ -1,3 +1,8 @@
+# Learning CSS Grid
+
+Using the tutorial from Wes Bos
+
+
 ![](https://res.cloudinary.com/wesbos/image/upload/v1515524452/GRID-social-share_wlfzk3.png)
 
 # CSS Grid Video Course
